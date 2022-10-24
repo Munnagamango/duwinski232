@@ -1,1 +1,2 @@
-esse é um teste para a aula de pensamento computacional
+# 👋 Hello! Welcome to my Github profile.
+## My name is Victor Eduardo Winski and my nickname is duwinski
