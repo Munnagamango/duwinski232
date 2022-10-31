@@ -2,7 +2,7 @@
 ## My name is Victor Eduardo Winski and my nickname is duwinski
 ## Estou aprendendo
 
-## Esse ano aprendi varias coisas nessa area por exemplo:
+## Esse ano aprendi varias coisas nessa area, por exemplo:
 
 -criar jogos no scratch
 
