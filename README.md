@@ -3,6 +3,7 @@
 ## Estou aprendendo
 
 Esse ano aprendi varias coisas nessa area por exemplo:
+
 -criar jogos no scratch
 
 -iniciei no java
